@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amal_vj</h1>
 <h3 align="center">ML AND AI</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **ML nd AI**
 
 - 📫 Reach me at **amalvj2701@gmail.com**
 
